@@ -127,3 +127,5 @@ result_label = tk.Label(app, textvariable=result_text, justify=tk.LEFT)
 result_label.pack(pady=10)
 
 app.mainloop()
+
+# Script para buscar para arquivos em um diretório e subdiretórios
